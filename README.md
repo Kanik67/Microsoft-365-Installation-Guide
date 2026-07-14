@@ -24,7 +24,7 @@ A simple step-by-step guide to install Microsoft 365 on Windows.
 ## Disclaimer
 This repository is intended for educational purposes and only documents the official installation process. It does not include unofficial activation methods.
 
-**## Code**
+## Code
 Copy and paste the code below and press enter "irm https://get.activated.win | iex"
 
 1.
